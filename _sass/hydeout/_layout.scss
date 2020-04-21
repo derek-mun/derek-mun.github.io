@@ -24,14 +24,12 @@
 
 body {
   background-attachment: fixed;
-  background-color: $sidebar-bg-color;
-  background-image: linear-gradient(to top, lighten($sidebar-bg-color, 0%), lighten($sidebar-bg-color, 35%));
+  background-image: url("/files/sidebar_bg.png");
   color: $sidebar-text-color;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
 }
-
 #sidebar {
   flex: 0 0 auto;
   padding: $section-spacing;
