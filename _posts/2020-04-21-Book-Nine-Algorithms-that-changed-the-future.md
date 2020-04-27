@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "독서: 미래를 바꾼 아홉가지 알고리즘"
-date: 2020-04-20
 disqus: true
 categories:
   - Etc

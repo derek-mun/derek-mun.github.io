@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Linux Shell 프로그램 실행시간 구하기"
-date: 2020-04-21
 categories:
   - In Console
 tags:

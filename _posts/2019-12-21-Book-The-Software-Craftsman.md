@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "독서: 소프트웨어 장인정신 "
-date: 2019-12-21
 disqus: true
 categories:
   - Etc
