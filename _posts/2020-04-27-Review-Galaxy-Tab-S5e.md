@@ -15,7 +15,7 @@ comments: true
 
 ---
 ## Galaxy Tab S5e 128GB LTE 모델
-![Galaxy Tab S5e](/files/post_img/galaxy_tab_s5e.jpg) 
+![Galaxy Tab S5e](/files/post_img/galaxy_tab_s5e.jpg){: width="500" }{: .center}
 
 ---
 ## 기본 사양 정보 
@@ -43,35 +43,20 @@ comments: true
   >> 바보같이 64G 제품을 살거라고 하고 삼성 sd evo plus 64G 제품을 먼저 구매했었는데..결국엔 128G 구매
 
 ---  
- ## 언박싱 
-![Galaxy Tab S5e unboxing1](/files/post_img/galaxy_tab_s5e_unboxing1.jpg) 
-![Galaxy Tab S5e unboxing2](/files/post_img/galaxy_tab_s5e_unboxing2.jpg) 
-![Galaxy Tab S5e unboxing3](/files/post_img/galaxy_tab_s5e_unboxing3.jpg) 
-![Galaxy Tab S5e unboxing4](/files/post_img/galaxy_tab_s5e_unboxing4.jpg) 
-![Galaxy Tab S5e unboxing5](/files/post_img/galaxy_tab_s5e_unboxing5.jpg) 
-![Galaxy Tab S5e unboxing6](/files/post_img/galaxy_tab_s5e_unboxing6.jpg) 
-![Galaxy Tab S5e unboxing7](/files/post_img/galaxy_tab_s5e_unboxing7.jpg) 
+## Unboxing 
+![Galaxy Tab S5e unboxing1](/files/post_img/galaxy_tab_s5e_unboxing.jpg){: .center}
 
- ## 제품 선택의 이유
-  ### 나의 사용성 고려 
-  ### 기능 정리 
+ >> **나도 무척 반갑다..**
+
+---
+## 제품 선택의 이유
+
+### 나의 사용성 고려 
+
+### 기능 정리 
+
   https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20%ED%83%AD%20S5e
 
-  ### 최종 목표?
+### 최종 목표?
 
 
-```bash
-
-root@:derek-mun.github.io:$ Configuration file: /home/derek/derek-mun.github.io/_config.yml
-            Source: /home/derek/derek-mun.github.io
-       Destination: /home/derek/derek-mun.github.io/_site
- Incremental build: disabled. Enable with --incremental
-      Generating... 
-       Jekyll Feed: Generating feed for posts
-                    done in 0.631 seconds.
- Auto-regeneration: enabled for '/home/derek/derek-mun.github.io'
-    Server address: http://0.0.0.0:80/
-  Server running... press ctrl-c to stop.
-
-root@:derek-mun.github.io:$ 
-```
