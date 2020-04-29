@@ -21,7 +21,10 @@
   and then fill in the .container or .content elements depending on how far
   we want the sidebar or header to stretch.
 */
-
+.center {
+  display: block;
+  margin: auto;
+}
 body {
   background-attachment: fixed;
   background-image: url("/files/sidebar_bg.png");
