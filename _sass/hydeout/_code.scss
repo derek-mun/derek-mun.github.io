@@ -9,9 +9,9 @@ pre {
 }
 
 code {
-  background-color: #f9f9f9;
+  background-color: $lighter-gray;
   border-radius: 3px;
-  color: $code-color;
+  color: #c00;
   font-size: 85%;
   padding: 0.25em 0.5em;
 }
@@ -32,7 +32,7 @@ pre code {
 
 // Pygments/Rouge via Jekyll
 .highlight {
-  background-color: #f9f9f9;
+  background-color: $lighter-gray;
   border-radius: 0.25rem;
   font-size: 0.8rem;
   line-height: 1.4;
@@ -45,7 +45,7 @@ pre code {
   }
 
   .lineno {
-    color: #999;
+    color: #eeffff;
     display: inline-block; // Ensures the null space also isn't selectable
     padding-left: 0.25rem;
     padding-right: 0.75rem;

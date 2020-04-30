@@ -51,3 +51,12 @@ $sidebar-title-color: rgb(255, 255, 255) !default;
 $sidebar-link-color: rgb(255, 255, 255) !default;
 $sidebar-text-color:  rgb(80, 80, 80) !default;
 $sidebar-icon-color: rgba( rgb(255, 255, 255) , 0.75) !default;
+
+$gray: #7a8288 !default;
+$dark-gray: mix(#000, $gray, 50%) !default;
+$darker-gray: mix(#000, $gray, 60%) !default;
+$light-gray: mix(#fff, $gray, 50%) !default;
+$lighter-gray: mix(#fff, $gray, 90%) !default;
+$background-color: #fff !default;
+$code-background-color: #fafafa !default;
+$code-background-color-dark: $darker-gray !default;
