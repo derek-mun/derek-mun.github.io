@@ -14,7 +14,7 @@ comments: true
    
  Linux 시스템을 사용하다보면 많은 command 를 쓰게된다. (ex. ls, cd, grep, ps). 
  하지만 우리가 자주사용하는 명령어는 익숙해지면서 외워지지만, 
- 그 명령어들의 옵션 모두를 기>억할 수는 없다. 따라서 이번 포스팅에서는 [Man Page](https://en.wikipedia.org/wiki/Man_page) 에 대해서 알아보려고 한다.
+ 그 명령어들의 옵션 모두를 기억할 수는 없다. 따라서 이번 포스팅에서는 [Man Page](https://en.wikipedia.org/wiki/Man_page) 에 대해서 알아보려고 한다.
  
 ---
 
