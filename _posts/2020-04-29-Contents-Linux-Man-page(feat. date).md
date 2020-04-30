@@ -23,7 +23,7 @@ comments: true
  - ```man <command> ``` 한번쯤은 다들 사용해보았을 것이다. 한 화면에 모두 보여줄 수가 없기 때문에 man 의 기본 페이저는 [less](https://en.wikipedia.org/wiki/Less) 를 사용한다.  
 일단 기본적으로 가장 많이 보는 ```ls``` command 를 이용하여 man page를 살펴보자.
 
-```shell
+```
 
 LS(1)                            User Commands                           LS(1)
 
@@ -94,7 +94,7 @@ DESCRIPTION
 
  - ```man printf```
 
-```shell
+```
 
 PRINTF(1)                                  User Commands                                 PRINTF(1)
 
@@ -126,7 +126,7 @@ DESCRIPTION
 
  - 이번엔 ```man 3 printf``` 를 입력해보자
 
-```shell
+```
 PRINTF(3)                 Linux Programmer's Manual                 PRINTF(3)
 
 NAME
@@ -163,7 +163,7 @@ SYNOPSIS
 ## man 을 활용해보자
 
   기본적으로 bash 에 ```date``` 를 입력하게되면 아래와 같은 결과를 얻을 수 있다.
-```
+```shell
 derek@~ $ date
 Thu Apr 30 13:16:16 KST 2020 
 ```
@@ -172,7 +172,7 @@ Thu Apr 30 13:16:16 KST 2020
   - ```man date``` 실행 후 조금 내리다보면 아래 FORMAT 정보가 있다. 
   
 
-```shell
+```
        FORMAT controls the output.  Interpreted sequences are:
 
        %%     a literal %
