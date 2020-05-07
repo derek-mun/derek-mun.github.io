@@ -60,6 +60,6 @@ comments: true
 ## In console [TODO]
  - alias 를 이용하여 자주 사용하는 command를 쉽게 사용해보자. 
  
- - [손쉬운 find, grep]()
+ - [긴 명령어를 줄여서 써보자 (alias)]()
   
  
