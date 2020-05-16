@@ -57,9 +57,9 @@ comments: true
  
  - 나의 경우에는 ```grep -r [FILE] ./*``` 을 가장 많이 사용한다. 
 
-## In console [TODO]
+## 활용 
  - alias 를 이용하여 자주 사용하는 command를 쉽게 사용해보자. 
  
- - [긴 명령어를 줄여서 써보자 (alias)]()
+ - [긴 명령어를 줄여서 써보자 (alias)](../in%20console/In-Console-Using-alias.html)
   
  
