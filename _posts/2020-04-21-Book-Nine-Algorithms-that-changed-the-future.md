@@ -13,7 +13,7 @@ comments: true
 ---
   우연히 발견한 책이지만, 나름 재밌게 읽어서 정리함. 
 
-![미래를 바꾼 아홉가지 알고리즘](/files/post_img/Nine-Algorithms-that-changed-the-future.jpg) 
+![미래를 바꾼 아홉가지 알고리즘](https://cdn.jsdelivr.net/gh/derek-mun/derek-mun.github.io@master/files/post_img/Nine-Algorithms-that-changed-the-future.jpg){: width="200px"}
 # [ 미래를 바꾼 아홉가지 알고리즘 ](https://www.yes24.com/24/Goods/8921236?Acode=101)
 
 > 첫 챕터만 봐도 컴퓨터 전공자만을 위한 책이 아니라는 것을 알 수 있다. 좋은 책이라고 생각한다.

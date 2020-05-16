@@ -15,7 +15,7 @@ comments: true
 
 ---
 ## Galaxy Tab S5e 128GB LTE 모델
-![Galaxy Tab S5e](/files/post_img/galaxy_tab_s5e.jpg){: width="500" }{: .center}
+![Galaxy Tab S5e](https://cdn.jsdelivr.net/gh/derek-mun/derek-mun.github.io@master/files/post_img/galaxy_tab_s5e.jpg){: width="500" }{: .center}
 
 ---
 ## 기본 사양 정보 
@@ -44,7 +44,7 @@ comments: true
 
 ---  
 ## Unboxing 
-![Galaxy Tab S5e unboxing1](/files/post_img/galaxy_tab_s5e_unboxing.jpg){: .center}
+![Galaxy Tab S5e unboxing1](https://cdn.jsdelivr.net/gh/derek-mun/derek-mun.github.io@master/files/post_img/galaxy_tab_s5e_unboxing.jpg){: .center}
 
  >> **나도 무척 반갑다..**
 

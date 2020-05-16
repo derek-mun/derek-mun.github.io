@@ -14,7 +14,7 @@ comments: true
 ---
  소프트웨어 개발자로써 읽어야할 책이라길래 읽고 가볍게 정리해보았다.
 
-![소프트웨어 장인](/files/post_img/software_crafts_man.jpg) 
+![소프트웨어 장인](https://cdn.jsdelivr.net/gh/derek-mun/derek-mun.github.io@master/files/post_img/software_crafts_man.jpg){: width="200px"}
 # [ 소프트웨어 장인 ](https://www.yes24.com/24/Goods/20461940?Acode=101)
 
 ## PART1 **이념과 태도**

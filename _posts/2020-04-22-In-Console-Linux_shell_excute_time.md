@@ -39,7 +39,7 @@ echo "It takes $(($EndTime - $StartTime)) seconds to complete this task."
 
 ``` time (for ((i=0;i<50;i++)) do echo "this is time testtime "%i; done) ```
 
-![timetest1](/files/post_img/time_test1.jpg)
+![timetest1](https://cdn.jsdelivr.net/gh/derek-mun/derek-mun.github.io@master/files/post_img/time_test1.jpg)
 
 ---
 
@@ -69,7 +69,7 @@ show
  - shell script 를 작성하고, ```chmod 755 time.sh``` 로 실행 가능하도록 권한을 변경해주자. 
  - bash 에 ```time (./time.sh)``` 를 입력하면, 아래와 같은 결과를 얻을 수 있다.
  
- ![time_test2](/files/post_img/time_test2.jpg)
+ ![time_test2](https://cdn.jsdelivr.net/gh/derek-mun/derek-mun.github.io@master/files/post_img/time_test2.jpg)
 
 
 
