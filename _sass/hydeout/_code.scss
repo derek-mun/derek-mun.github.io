@@ -46,7 +46,7 @@ pre code {
 
   }
   .lineno {
-    color: #c00;
+    color: rgb(255, 0, 157);
     display: inline-block; // Ensures the null space also isn't selectable
     user-select: none; // Make sure numbers aren't selectable
   }
